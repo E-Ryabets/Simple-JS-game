@@ -1,2 +1,3 @@
-# The-Battleship-I
-Simple JS in-browser game
+**Battleships**
+
+Игра написана на нативном js Из упражнений книги «Head first O’Reilly Изучаем Javascript»
